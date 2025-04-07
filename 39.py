@@ -1,6 +1,6 @@
 #You can use index numbers {0}
 # to be sure the arguments are placed in the correct placeholders:
-from statistics import quantiles
+#from statistics import quantiles
 
 quantity = 3
 itemno = 567
