@@ -12,5 +12,4 @@ if x > 10:
     else:
         print("but not above 20.")
 else:
-    print("less than  ")
-if x 10:
+    print("less than  ten")

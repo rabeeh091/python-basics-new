@@ -8,7 +8,7 @@
 
 #This function expects 2 arguments, and gets 2 arguments?
 
-def my_functiopn(fname,lname):
-    print(fname + "" + lname)
+def my_function(fname,lname):
+    print(fname + " " + lname)
 
-    my_functiopn()
+my_function("emil","thomas")
